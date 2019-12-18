@@ -1,2 +1,2 @@
 # dart-chip8
-flutter-chip8 仿真器
+dart chip8 仿真器
